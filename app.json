@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/test001",
+    "pages/logs/logs",
+    "pages/index/test002"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Tomtest002",
+    "navigationBarTextStyle":"black"
+  }
+}
